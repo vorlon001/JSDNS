@@ -1,0 +1,87 @@
+7609:C 21 Jul 13:32:12.286 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+7609:C 21 Jul 13:32:12.286 # Redis version=4.0.10, bits=64, commit=6e69d3ea, modified=0, pid=7609, just started
+7609:C 21 Jul 13:32:12.286 # Configuration loaded
+7609:M 21 Jul 13:32:12.288 * Running mode=standalone, port=6379.
+7609:M 21 Jul 13:32:12.288 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+7609:M 21 Jul 13:32:12.288 # Server initialized
+7609:M 21 Jul 13:32:12.288 * DB loaded from disk: 0.000 seconds
+7609:M 21 Jul 13:32:12.288 * Ready to accept connections
+7609:M 21 Jul 13:32:12.288 * The server is now ready to accept connections at /var/run/redis.sock
+7609:signal-handler (1532179938) Received SIGINT scheduling shutdown...
+7609:M 21 Jul 13:32:18.110 # User requested shutdown...
+7609:M 21 Jul 13:32:18.110 * Saving the final RDB snapshot before exiting.
+7609:M 21 Jul 13:32:18.113 * DB saved on disk
+7609:M 21 Jul 13:32:18.113 * Removing the pid file.
+7609:M 21 Jul 13:32:18.113 * Removing the unix socket file.
+7609:M 21 Jul 13:32:18.113 # Redis is now ready to exit, bye bye...
+7633:C 21 Jul 13:32:33.675 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+7633:C 21 Jul 13:32:33.675 # Redis version=4.0.10, bits=64, commit=6e69d3ea, modified=0, pid=7633, just started
+7633:C 21 Jul 13:32:33.675 # Configuration loaded
+7633:M 21 Jul 13:32:33.678 * Running mode=standalone, port=6379.
+7633:M 21 Jul 13:32:33.678 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+7633:M 21 Jul 13:32:33.678 # Server initialized
+7633:M 21 Jul 13:32:33.678 * DB loaded from disk: 0.000 seconds
+7633:M 21 Jul 13:32:33.678 * Ready to accept connections
+7633:M 21 Jul 13:32:33.678 * The server is now ready to accept connections at /var/run/redis.sock
+7820:C 21 Jul 13:39:36.246 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+7820:C 21 Jul 13:39:36.246 # Redis version=4.0.10, bits=64, commit=6e69d3ea, modified=0, pid=7820, just started
+7820:C 21 Jul 13:39:36.246 # Configuration loaded
+7821:M 21 Jul 13:39:36.248 * Running mode=standalone, port=6379.
+7821:M 21 Jul 13:39:36.248 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+7821:M 21 Jul 13:39:36.248 # Server initialized
+7821:M 21 Jul 13:39:36.248 * DB loaded from disk: 0.000 seconds
+7821:M 21 Jul 13:39:36.248 * Ready to accept connections
+7821:M 21 Jul 13:39:36.248 * The server is now ready to accept connections at /var/run/redis.sock
+8001:C 21 Jul 13:59:19.875 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8001:C 21 Jul 13:59:19.875 # Redis version=4.0.10, bits=64, commit=6e69d3ea, modified=0, pid=8001, just started
+8001:C 21 Jul 13:59:19.875 # Configuration loaded
+8002:M 21 Jul 13:59:19.878 * Running mode=standalone, port=6379.
+8002:M 21 Jul 13:59:19.878 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+8002:M 21 Jul 13:59:19.878 # Server initialized
+8002:M 21 Jul 13:59:19.878 * DB loaded from disk: 0.000 seconds
+8002:M 21 Jul 13:59:19.878 * Ready to accept connections
+8002:M 21 Jul 13:59:19.878 * The server is now ready to accept connections at /var/run/redis.sock
+8022:C 21 Jul 14:00:09.608 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8022:C 21 Jul 14:00:09.608 # Redis version=4.0.10, bits=64, commit=6e69d3ea, modified=0, pid=8022, just started
+8022:C 21 Jul 14:00:09.608 # Configuration loaded
+8023:M 21 Jul 14:00:09.610 * Running mode=standalone, port=6379.
+8023:M 21 Jul 14:00:09.610 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+8023:M 21 Jul 14:00:09.610 # Server initialized
+8023:M 21 Jul 14:00:09.610 * DB loaded from disk: 0.000 seconds
+8023:M 21 Jul 14:00:09.610 * Ready to accept connections
+8023:M 21 Jul 14:00:09.610 * The server is now ready to accept connections at /var/run/redis.sock
+8108:C 21 Jul 14:05:03.164 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8108:C 21 Jul 14:05:03.164 # Redis version=4.0.10, bits=64, commit=6e69d3ea, modified=0, pid=8108, just started
+8108:C 21 Jul 14:05:03.164 # Configuration loaded
+8109:M 21 Jul 14:05:03.166 # Creating Server TCP listening socket 127.0.0.1:6379: bind: Address in use
+8150:C 21 Jul 14:07:21.926 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8150:C 21 Jul 14:07:21.926 # Redis version=4.0.10, bits=64, commit=6e69d3ea, modified=0, pid=8150, just started
+8150:C 21 Jul 14:07:21.926 # Configuration loaded
+8151:M 21 Jul 14:07:21.928 * Running mode=standalone, port=6379.
+8151:M 21 Jul 14:07:21.928 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+8151:M 21 Jul 14:07:21.928 # Server initialized
+8151:M 21 Jul 14:07:21.928 * DB loaded from disk: 0.000 seconds
+8151:M 21 Jul 14:07:21.929 * Ready to accept connections
+8151:M 21 Jul 14:07:21.929 * The server is now ready to accept connections at /var/run/redis.sock
+8159:C 21 Jul 14:08:22.143 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8159:C 21 Jul 14:08:22.143 # Redis version=4.0.10, bits=64, commit=6e69d3ea, modified=0, pid=8159, just started
+8159:C 21 Jul 14:08:22.143 # Configuration loaded
+8160:M 21 Jul 14:08:22.146 * Running mode=standalone, port=6379.
+8160:M 21 Jul 14:08:22.146 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+8160:M 21 Jul 14:08:22.146 # Server initialized
+8160:M 21 Jul 14:08:22.146 * DB loaded from disk: 0.000 seconds
+8160:M 21 Jul 14:08:22.146 * Ready to accept connections
+8160:M 21 Jul 14:08:22.146 * The server is now ready to accept connections at /var/run/redis.sock
+8160:M 21 Jul 14:21:39.008 * Background saving started by pid 8262
+8262:C 21 Jul 14:21:39.012 * DB saved on disk
+8262:C 21 Jul 14:21:39.013 * RDB: 0 MB of memory used by copy-on-write
+8160:M 21 Jul 14:21:39.106 * Background saving terminated with success
+8273:C 21 Jul 14:22:00.833 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8273:C 21 Jul 14:22:00.833 # Redis version=4.0.10, bits=64, commit=6e69d3ea, modified=0, pid=8273, just started
+8273:C 21 Jul 14:22:00.833 # Configuration loaded
+8274:M 21 Jul 14:22:00.835 * Running mode=standalone, port=6379.
+8274:M 21 Jul 14:22:00.835 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+8274:M 21 Jul 14:22:00.835 # Server initialized
+8274:M 21 Jul 14:22:00.835 * DB loaded from disk: 0.000 seconds
+8274:M 21 Jul 14:22:00.835 * Ready to accept connections
+8274:M 21 Jul 14:22:00.835 * The server is now ready to accept connections at /var/run/redis.sock
