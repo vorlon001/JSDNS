@@ -10,7 +10,7 @@
 
   - IP JSDNS: 172.19.0.2
    
-  - IP MASTER SERVER: 172.19.0.2
+  - IP MASTER SERVER: 172.19.0.1
   
 *** 
 
