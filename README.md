@@ -5,6 +5,8 @@
 1. **Your IP:**
 
   - MASTER SERVER Debian 9.5.
+  
+  - Docker version 18.03.1-ce, build 9ee9f40
 
   - IP JSDNS: 172.19.0.2
    
@@ -16,6 +18,10 @@
 
  - **docker network create --subnet=172.19.0.0/16 net_172_19**
  - **docker network ls**
+ - **mkdir -p /docker/images/**
+ - **mkdir -p /docker/host/**
+ - **cd /docker/images/*
+ - **git clone https://github.com/vorlon001/JSDNS**
  - **./build.sh**
  - **./run_dns.sh 1 172.19.0.2 128**
 *** 
