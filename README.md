@@ -1,4 +1,4 @@
-## Alt-H2 This is DNS server on nodejs.
+## This is DNS server on nodejs.
 ### Based on https://github.com/gizur/redis-dns.
 
 
