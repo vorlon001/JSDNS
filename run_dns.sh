@@ -39,5 +39,5 @@ docker run --name jsdns_$1_$2 \
 --net net_172_19 --ip $2 \
 -m $3M \
 --memory-swappiness 0 \
---restart=always -d iblog.pro/jsdns-20180721
+--restart=always -d $(docker images | grep iblog.pro/jsdns | awk '{print $1}')
 
