@@ -7,15 +7,15 @@ function quit {
 }
 
 if [ -z $1 ]; then
-    echo "number server not yes set"
+    echo "number server not yet set"
     quit
 fi
 if [ -z $2 ]; then
-    echo "ipv4-address server not yes set"
+    echo "ipv4-address server not yet set"
     quit
 fi
 if [ -z $3 ]; then
-    echo "max memory MB server not yes set"
+    echo "max memory MB server not yet set"
     quit
 fi
 
