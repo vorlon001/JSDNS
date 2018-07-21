@@ -22,6 +22,7 @@
  - **mkdir -p /docker/host/**
  - **cd /docker/images/**
  - **git clone https://github.com/vorlon001/JSDNS**
+ - **cd JSDNS**
  - **./build.sh**
  - **./run_dns.sh 1 172.19.0.2 128**
 *** 
