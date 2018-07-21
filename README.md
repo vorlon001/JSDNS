@@ -30,7 +30,8 @@
  - docker exec $(docker ps -a | grep redis_1_172.19.0.2 | awk '{print $1}') redis-cli set redis-dns:dbserver.redis-dns.local 10.0.0.1
  - docker exec $(docker ps -a | grep redis_1_172.19.0.2 | awk '{print $1}') redis-cli set redis-dns:appserver.redis-dns.local 10.0.0.2
  - docker exec $(docker ps -a | grep redis_1_172.19.0.2 | awk '{print $1}') redis-cli set redis-admin:172.19.0.1:token true
- Add token for change dns record
+
+Add token for change dns record
 ***
  4. **TEST Your JSDNS**
 
