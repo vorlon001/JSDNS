@@ -20,7 +20,7 @@
  - **docker network ls**
  - **mkdir -p /docker/images/**
  - **mkdir -p /docker/host/**
- - **cd /docker/images/*
+ - **cd /docker/images/**
  - **git clone https://github.com/vorlon001/JSDNS**
  - **./build.sh**
  - **./run_dns.sh 1 172.19.0.2 128**
